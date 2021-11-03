@@ -2,6 +2,7 @@
 
 - [ ] Alterar o BG quando a tela for maior
 - [ ] Responsividade
+- [ ] Tirar o scroll da tela
 
 ##LINK
 
